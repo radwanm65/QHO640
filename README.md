@@ -23,8 +23,8 @@ The practical outcomes for this unit are to create a responsive single page web-
 
 There are two assessments that will allow me to gauge how well you have done.
 
-- **1.Report and Mock Up (due: 4pm, Friday, 12th November )**
-- **2.Implementation and a Report (in the form of technical documentation)(due: 4pm, Friday, 14th January)**
+- **1.Report and Mock Up (due: To be announced )**
+- **2.Implementation and a Report (in the form of technical documentation)(due: To be announced )**
 
 ## Weekly Topics
 
