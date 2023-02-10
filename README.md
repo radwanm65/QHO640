@@ -2,9 +2,9 @@
 
 Hello, and welcome to Contemporary Web Applications.
 
-This is one of my favourite modules to teach, as I will be introducing you to the cutting edge ideas surrounding modern web development.
+Throughout this course, you will be introduced to the cutting edge ideas surrounding modern web development.
 
-I am going to be showing you how we can develop and deploy web applications using contemporary methods.
+You will learn how we can develop and deploy web applications using contemporary methods.
 
 ## Teaching Strategy
 
