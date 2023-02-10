@@ -1,2 +1,3 @@
 # QHO640
-Contemporary Web Applications (QHO640) Course Material
+Contemporary Web Applications (QHO640) Course Material and Notes
+
