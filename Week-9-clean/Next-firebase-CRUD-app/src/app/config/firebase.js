@@ -7,7 +7,7 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBX3-2106y5YMIflaHlXbZ5Lo_bwLzimvU",
+  apiKey: "ENTER YOUR API-KEY HERE",
   authDomain: "week9-demo-b696d.firebaseapp.com",
   projectId: "week9-demo-b696d",
   storageBucket: "week9-demo-b696d.firebasestorage.app",
