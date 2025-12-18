@@ -21,10 +21,10 @@ import {
 } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBo58Xc_3KOs-cBHGyDjZB0u5yQGeSY8FI",
-  authDomain: "cwa-a4a09.firebaseapp.com",
-  projectId: "cwa-a4a09",
-  storageBucket: "cwa-a4a09.firebasestorage.app",
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
   messagingSenderId: "916265310996",
   appId: "1:916265310996:web:fcae257ea11b390e094001",
 };
